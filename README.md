@@ -10,5 +10,4 @@ Q = Pertanyaan
 
 A = Jawaban
 
-> Q: Kenapa anda memakai bahasa json untuk model data?
-> A: Karena data json flexible bisa di olah di berbagai bahasa code
+> Q: Kenapa anda memakai bahasa json untuk model data? <br> A: Karena data json flexible bisa di olah di berbagai bahasa code
