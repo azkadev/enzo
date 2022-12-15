@@ -9,6 +9,6 @@ Experiment Library ai untuk bahasa dart dan support berbagai platform
 Q = Pertanyaan<br>
 A = Jawaban
 
-> Q: Kenapa anda memakai bahasa json untuk model data? <br> A: Karena data json flexible bisa di olah di berbagai bahasa code
-> Q: Kenapa anda memakai bahasa code dart tidak memakai python? <br> A: karena saya berencana merun ai di semua platform dan bahasa dart lebih cepat dari bahasa python
-> Q: Apakah anda mengopensource beserta model data? <br> A: Tidak saya hanya opensource script
+> Q: Kenapa anda memakai bahasa json untuk model data? <br> A: Karena data json flexible bisa di olah di berbagai bahasa code <br>
+> Q: Kenapa anda memakai bahasa code dart tidak memakai python? <br> A: karena saya berencana merun ai di semua platform dan bahasa dart lebih cepat dari bahasa python <br>
+> Q: Apakah anda mengopensource beserta model data? <br> A: Tidak saya hanya opensource script <br>
